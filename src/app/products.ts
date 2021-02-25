@@ -16,6 +16,12 @@ export const products = [
     name: 'Gorontula',
     price: 299,
     description: 'Herbal Medical fruit for curing infertility'
+  },
+  {
+    id: 4,
+    name: 'Ankara',
+    price: 300,
+    description: 'Nigerian Fabric clothing Material'
   }
 ];
 
