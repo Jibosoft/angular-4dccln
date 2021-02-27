@@ -2,25 +2,25 @@ export const products = [
   {
     id: 1,
     name: 'ABAYA',
-    price: 799,
+    price: 17000,
     description: 'A gown worn by female most expecialy ARABS'
   },
   {
     id: 2,
     name: 'PERFUME',
-    price: 699,
+    price: 6000,
     description: 'A Frangrance worn by everybody'
   },
   {
     id: 3,
     name: 'Gorontula',
-    price: 299,
+    price: 500,
     description: 'Herbal Medical fruit for curing infertility'
   },
   {
     id: 4,
     name: 'Ankara',
-    price: 300,
+    price: 3000,
     description: 'Nigerian Fabric clothing Material'
   }
 ];
