@@ -41,12 +41,7 @@ import { ShippingComponent } from './shipping/shipping.component';
 /**
  * @title Basic buttons
  */
-@Component({
-  selector: 'button-overview-example',
-  templateUrl: 'button-overview-example.html',
-  styleUrls: ['button-overview-example.css'],
-})
-export class ButtonOverviewExample {}
+
 export class AppModule { }
 
 /*
