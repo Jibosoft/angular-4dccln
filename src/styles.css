@@ -17,7 +17,7 @@ body {
   flex-direction: row;
   width: 100vw;
 }
-
+:horizontal
 router-outlet + * {
   padding: 0 16px;
 }
